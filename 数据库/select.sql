@@ -1,1 +1,1 @@
-select * from fluke_data where barcode = 'G5Y7163B01SHP1953ZM5' ORDER BY testdate desc, TESTTIME DESC
+select * from barsamrec where barcode = 'G5Y71538X5JHP195EZM6' ORDER BY cdate desc, ctime DESC
